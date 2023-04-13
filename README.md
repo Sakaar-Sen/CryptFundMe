@@ -27,3 +27,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Images
 
 <img src="./UI_ss/2023-04-13_20-45.png" alt="1">
+<img src="./UI_ss/2023-04-13_20-45_1.png" alt="1">
+<img src="./UI_ss/2023-04-13_20-45_2.png" alt="1">
+<img src="./UI_ss/2023-04-13_20-46.png" alt="1">
