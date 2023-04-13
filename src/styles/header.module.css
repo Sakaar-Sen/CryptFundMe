@@ -1,0 +1,44 @@
+.leftSide{
+    float: left;
+    width: 50%;
+    height: 100%;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    font-size: 16px;
+    user-select: none;
+}
+
+.hidden{
+    visibility: hidden;
+}
+.rightSide{
+    float: right;
+    width: 50%;
+    height: 100%;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.rightSide a{
+    margin: 0;
+    padding: 20px;
+    font-size: 23px;
+    color: #fff;
+    display: inline-block;
+    text-decoration: none;
+    transition: all .2s;
+}
+
+.rightSide a:hover{
+    -webkit-text-stroke: 1px white;
+    color: transparent;
+    font-weight: 800;
+    scale: 105%;
+}
+
+.connectBtn{
+    margin-right: 10px;
+}
+

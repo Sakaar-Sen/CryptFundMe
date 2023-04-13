@@ -1,0 +1,13 @@
+.docsOuter h3{
+    text-align: center;
+    font-size: 40px;
+}
+
+.docsOuter p{
+    width: 670px;
+    font-size: 20px;
+    text-align: center;
+    margin: auto auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(205, 205, 205);
+}
