@@ -24,3 +24,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - Flexible contracts: Users can create contracts for any purpose they choose, with no restrictions on the type of project or initiative they want to fund.
 - Clean UI: CryptFund Me features a simple and intuitive user interface that is easy to navigate, making it accessible to users of all technical levels. The platform was built using Next.js
 
+## Images
+
+<img src="./UI_ss/2023-04-13_20-45" alt="image_description">
