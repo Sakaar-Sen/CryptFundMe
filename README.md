@@ -23,6 +23,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - No fees: Unlike traditional crowdfunding platforms, CryptFund Me does not charge any fees to either creators or funders.
 - Flexible contracts: Users can create contracts for any purpose they choose, with no restrictions on the type of project or initiative they want to fund.
 - Clean UI: CryptFund Me features a simple and intuitive user interface that is easy to navigate, making it accessible to users of all technical levels. The platform was built using Next.js
+- Multi-chain support: CryptFund Me can be easily deployed on multiple blockchains, including Ethereum, Binance Smart Chain, Polygon, and Avalanche. Currently deployed on FTM testnet.
 
 ## Images
 
